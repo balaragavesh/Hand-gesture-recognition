@@ -1,7 +1,3 @@
-To add visual hierarchy to your README, you can use Markdown syntax with various heading levels and bullet points. Here’s an improved version with headings, subheadings, and lists for clarity:
-
----
-
 # Hand Gesture Recognition
 
 This project enables real-time hand gesture recognition using **MediaPipe** and **OpenCV**. The system can detect and classify gestures from both hands simultaneously, making it ideal for applications requiring multi-hand gesture recognition. This README provides a step-by-step guide on how to set up, collect data, and start recognizing gestures.
