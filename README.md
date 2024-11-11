@@ -75,7 +75,3 @@ After collecting data, you can run the gesture recognition model to detect gestu
 - **Edge optimization**: Optimization for faster real-time processing on edge devices.
 
 
-
---- 
-
-With this structure, each section is clearly distinguished, making the README more readable and professional.
