@@ -74,4 +74,6 @@ After collecting data, you can run the gesture recognition model to detect gestu
 - **Complex gestures and sequences**: Support for recognizing more complex gestures and gesture sequences.
 - **Edge optimization**: Optimization for faster real-time processing on edge devices.
 
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
